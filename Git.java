@@ -4,5 +4,6 @@ public class Git
 		System.out.println("\"git is fun!!!!!!!!!!!\"");
 		System.out.println("Hi Mom!");
 		System.out.println("joes a dirtyyy dirtyyy dogggg");
+		System.out.println("max is a dirtyy dirtyy doge");
 	}
 }
