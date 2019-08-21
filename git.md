@@ -27,3 +27,4 @@
 \\* commit without -m -> use esc :wq to quit Vim
 \\* wrong messsage -> git commit --amend -m "New Message"
 \\* git checkout -- file -> discards last changes
+\\* wrong commit -> git checkout COMMIT_ID
