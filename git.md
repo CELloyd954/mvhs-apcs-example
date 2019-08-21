@@ -22,3 +22,5 @@
  * rm --cached -> remove file from stage
  * git commit -m "Present tense description of what changed"
  * git log -> enter to move down, q to quit
+\\ Problems
+* commit without -m -> use esc :wq to quit Vim
